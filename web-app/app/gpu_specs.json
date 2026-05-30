@@ -1,0 +1,1702 @@
+{
+    "GeForce RTX 3060 Ti": {
+        "GPU": "GeForce RTX 3060 Ti",
+        "boostClock": 1665.0,
+        "shaders": 4864.0,
+        "tmus": 152.0,
+        "rops": 80.0,
+        "architecture": "Ampere",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "Radeon RX 6900 XT": {
+        "GPU": "Radeon RX 6900 XT",
+        "boostClock": 2250.0,
+        "shaders": 5120.0,
+        "tmus": 320.0,
+        "rops": 128.0,
+        "architecture": "RDNA 2.0",
+        "memorySize": 16.0,
+        "memoryBandwidth": 512.0
+    },
+    "Radeon RX 5600 XT": {
+        "GPU": "Radeon RX 5600 XT",
+        "boostClock": 1560.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 64.0,
+        "architecture": "RDNA 1.0",
+        "memorySize": 6.0,
+        "memoryBandwidth": 288.0
+    },
+    "Radeon RX 6700 XT": {
+        "GPU": "Radeon RX 6700 XT",
+        "boostClock": 2581.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "RDNA 2.0",
+        "memorySize": 12.0,
+        "memoryBandwidth": 384.0
+    },
+    "GeForce RTX 3060 12 GB": {
+        "GPU": "GeForce RTX 3060 12 GB",
+        "boostClock": 1777.0,
+        "shaders": 3584.0,
+        "tmus": 112.0,
+        "rops": 48.0,
+        "architecture": "Ampere",
+        "memorySize": 12.0,
+        "memoryBandwidth": 360.0
+    },
+    "GeForce RTX 3080 Ti": {
+        "GPU": "GeForce RTX 3080 Ti",
+        "boostClock": 1665.0,
+        "shaders": 10240.0,
+        "tmus": 320.0,
+        "rops": 112.0,
+        "architecture": "Ampere",
+        "memorySize": 12.0,
+        "memoryBandwidth": 912.4
+    },
+    "GeForce RTX 3070 Ti": {
+        "GPU": "GeForce RTX 3070 Ti",
+        "boostClock": 1770.0,
+        "shaders": 6144.0,
+        "tmus": 192.0,
+        "rops": 96.0,
+        "architecture": "Ampere",
+        "memorySize": 8.0,
+        "memoryBandwidth": 608.3
+    },
+    "GeForce RTX 3050 4 GB": {
+        "GPU": "GeForce RTX 3050 4 GB",
+        "boostClock": 1740.0,
+        "shaders": 2048.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "Ampere",
+        "memorySize": 4.0,
+        "memoryBandwidth": 192.0
+    },
+    "Radeon RX 6600 XT": {
+        "GPU": "Radeon RX 6600 XT",
+        "boostClock": 2589.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 64.0,
+        "architecture": "RDNA 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "GeForce RTX 4060": {
+        "GPU": "GeForce RTX 4060",
+        "boostClock": 2460.0,
+        "shaders": 3072.0,
+        "tmus": 96.0,
+        "rops": 48.0,
+        "architecture": "Ada Lovelace",
+        "memorySize": 8.0,
+        "memoryBandwidth": 272.0
+    },
+    "GeForce RTX 4060 Ti 16 GB": {
+        "GPU": "GeForce RTX 4060 Ti 16 GB",
+        "boostClock": 2535.0,
+        "shaders": 4352.0,
+        "tmus": 136.0,
+        "rops": 48.0,
+        "architecture": "Ada Lovelace",
+        "memorySize": 16.0,
+        "memoryBandwidth": 288.0
+    },
+    "GeForce RTX 4070": {
+        "GPU": "GeForce RTX 4070",
+        "boostClock": 2475.0,
+        "shaders": 5888.0,
+        "tmus": 184.0,
+        "rops": 64.0,
+        "architecture": "Ada Lovelace",
+        "memorySize": 12.0,
+        "memoryBandwidth": 504.2
+    },
+    "GeForce RTX 4080": {
+        "GPU": "GeForce RTX 4080",
+        "boostClock": 2505.0,
+        "shaders": 9728.0,
+        "tmus": 304.0,
+        "rops": 112.0,
+        "architecture": "Ada Lovelace",
+        "memorySize": 16.0,
+        "memoryBandwidth": 716.8
+    },
+    "GeForce RTX 4090": {
+        "GPU": "GeForce RTX 4090",
+        "boostClock": 2520.0,
+        "shaders": 16384.0,
+        "tmus": 512.0,
+        "rops": 176.0,
+        "architecture": "Ada Lovelace",
+        "memorySize": 24.0,
+        "memoryBandwidth": 1010.0
+    },
+    "Radeon HD 4870": {
+        "GPU": "Radeon HD 4870",
+        "boostClock": 750.0,
+        "shaders": 800.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "TeraScale",
+        "memorySize": 0.5,
+        "memoryBandwidth": 115.2
+    },
+    "GeForce GTX 280": {
+        "GPU": "GeForce GTX 280",
+        "boostClock": 602.0,
+        "shaders": 240.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "Tesla 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 141.7
+    },
+    "GeForce GTX 260": {
+        "GPU": "GeForce GTX 260",
+        "boostClock": 576.0,
+        "shaders": 192.0,
+        "tmus": 64.0,
+        "rops": 28.0,
+        "architecture": "Tesla 2.0",
+        "memorySize": 0.896,
+        "memoryBandwidth": 111.9
+    },
+    "GeForce GTX 260 Core 216": {
+        "GPU": "GeForce GTX 260 Core 216",
+        "boostClock": 576.0,
+        "shaders": 216.0,
+        "tmus": 72.0,
+        "rops": 28.0,
+        "architecture": "Tesla 2.0",
+        "memorySize": 0.896,
+        "memoryBandwidth": 111.9
+    },
+    "GeForce GTX 285": {
+        "GPU": "GeForce GTX 285",
+        "boostClock": 648.0,
+        "shaders": 240.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "Tesla 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 159.0
+    },
+    "GeForce GTX 480": {
+        "GPU": "GeForce GTX 480",
+        "boostClock": 701.0,
+        "shaders": 480.0,
+        "tmus": 60.0,
+        "rops": 48.0,
+        "architecture": "Fermi",
+        "memorySize": 1.5,
+        "memoryBandwidth": 177.4
+    },
+    "GeForce GTX 470": {
+        "GPU": "GeForce GTX 470",
+        "boostClock": 608.0,
+        "shaders": 448.0,
+        "tmus": 56.0,
+        "rops": 40.0,
+        "architecture": "Fermi",
+        "memorySize": 1.25,
+        "memoryBandwidth": 133.9
+    },
+    "GeForce GTS 450": {
+        "GPU": "GeForce GTS 450",
+        "boostClock": 783.0,
+        "shaders": 192.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "Fermi",
+        "memorySize": 1.0,
+        "memoryBandwidth": 57.73
+    },
+    "Radeon HD 6850": {
+        "GPU": "Radeon HD 6850",
+        "boostClock": 775.0,
+        "shaders": 960.0,
+        "tmus": 48.0,
+        "rops": 32.0,
+        "architecture": "TeraScale 2",
+        "memorySize": 1.0,
+        "memoryBandwidth": 128.0
+    },
+    "Radeon HD 6870": {
+        "GPU": "Radeon HD 6870",
+        "boostClock": 900.0,
+        "shaders": 1120.0,
+        "tmus": 56.0,
+        "rops": 32.0,
+        "architecture": "TeraScale 2",
+        "memorySize": 1.0,
+        "memoryBandwidth": 134.4
+    },
+    "GeForce GTX 580": {
+        "GPU": "GeForce GTX 580",
+        "boostClock": 772.0,
+        "shaders": 512.0,
+        "tmus": 64.0,
+        "rops": 48.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.5,
+        "memoryBandwidth": 192.4
+    },
+    "Radeon HD 6970": {
+        "GPU": "Radeon HD 6970",
+        "boostClock": 880.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 32.0,
+        "architecture": "TeraScale 3",
+        "memorySize": 2.0,
+        "memoryBandwidth": 176.0
+    },
+    "Radeon HD 6950": {
+        "GPU": "Radeon HD 6950",
+        "boostClock": 800.0,
+        "shaders": 1408.0,
+        "tmus": 88.0,
+        "rops": 32.0,
+        "architecture": "TeraScale 3",
+        "memorySize": 2.0,
+        "memoryBandwidth": 160.0
+    },
+    "GeForce GTX 570": {
+        "GPU": "GeForce GTX 570",
+        "boostClock": 732.0,
+        "shaders": 480.0,
+        "tmus": 60.0,
+        "rops": 40.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.25,
+        "memoryBandwidth": 152.0
+    },
+    "GeForce GTX 560 Ti": {
+        "GPU": "GeForce GTX 560 Ti",
+        "boostClock": 823.0,
+        "shaders": 384.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 128.3
+    },
+    "Radeon HD 6990": {
+        "GPU": "Radeon HD 6990",
+        "boostClock": 830.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 32.0,
+        "architecture": "TeraScale 3",
+        "memorySize": 2.0,
+        "memoryBandwidth": 160.0
+    },
+    "GeForce GTX 590": {
+        "GPU": "GeForce GTX 590",
+        "boostClock": 608.0,
+        "shaders": 512.0,
+        "tmus": 64.0,
+        "rops": 48.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.5,
+        "memoryBandwidth": 164.0
+    },
+    "GeForce GTX 550 Ti": {
+        "GPU": "GeForce GTX 550 Ti",
+        "boostClock": 900.0,
+        "shaders": 192.0,
+        "tmus": 32.0,
+        "rops": 24.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 98.5
+    },
+    "GeForce GTX 560": {
+        "GPU": "GeForce GTX 560",
+        "boostClock": 810.0,
+        "shaders": 336.0,
+        "tmus": 56.0,
+        "rops": 32.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 128.0
+    },
+    "Radeon HD 7970": {
+        "GPU": "Radeon HD 7970",
+        "boostClock": 925.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 3.0,
+        "memoryBandwidth": 264.0
+    },
+    "Radeon HD 7950M": {
+        "GPU": "Radeon HD 7950M",
+        "boostClock": 700.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 128.0
+    },
+    "Radeon HD 7750M": {
+        "GPU": "Radeon HD 7750M",
+        "boostClock": 575.0,
+        "shaders": 512.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 64.0
+    },
+    "GeForce GTX 680M": {
+        "GPU": "GeForce GTX 680M",
+        "boostClock": 758.0,
+        "shaders": 1344.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 4.0,
+        "memoryBandwidth": 115.2
+    },
+    "Radeon HD 7850M": {
+        "GPU": "Radeon HD 7850M",
+        "boostClock": 675.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 64.0
+    },
+    "GeForce GTX 670MX": {
+        "GPU": "GeForce GTX 670MX",
+        "boostClock": 601.0,
+        "shaders": 960.0,
+        "tmus": 80.0,
+        "rops": 24.0,
+        "architecture": "Kepler",
+        "memorySize": 3.0,
+        "memoryBandwidth": 67.2
+    },
+    "GeForce GTX 670M": {
+        "GPU": "GeForce GTX 670M",
+        "boostClock": 598.0,
+        "shaders": 336.0,
+        "tmus": 56.0,
+        "rops": 24.0,
+        "architecture": "Fermi 2.0",
+        "memorySize": 1.5,
+        "memoryBandwidth": 72.0
+    },
+    "GeForce GTX 660M": {
+        "GPU": "GeForce GTX 660M",
+        "boostClock": 950.0,
+        "shaders": 384.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 80.0
+    },
+    "Radeon HD 7970M": {
+        "GPU": "Radeon HD 7970M",
+        "boostClock": 850.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 153.6
+    },
+    "Radeon HD 7950": {
+        "GPU": "Radeon HD 7950",
+        "boostClock": 800.0,
+        "shaders": 1792.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 3.0,
+        "memoryBandwidth": 240.0
+    },
+    "Radeon HD 7750": {
+        "GPU": "Radeon HD 7750",
+        "boostClock": 800.0,
+        "shaders": 512.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 72.0
+    },
+    "Radeon HD 7850": {
+        "GPU": "Radeon HD 7850",
+        "boostClock": 860.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 153.6
+    },
+    "GeForce GTX 680": {
+        "GPU": "GeForce GTX 680",
+        "boostClock": 1058.0,
+        "shaders": 1536.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 192.3
+    },
+    "GeForce GTX 690": {
+        "GPU": "GeForce GTX 690",
+        "boostClock": 1019.0,
+        "shaders": 1536.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 192.3
+    },
+    "Radeon HD 7970 GHz Edition": {
+        "GPU": "Radeon HD 7970 GHz Edition",
+        "boostClock": 1050.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 3.0,
+        "memoryBandwidth": 288.0
+    },
+    "GeForce GT 640": {
+        "GPU": "GeForce GT 640",
+        "boostClock": 902.0,
+        "shaders": 384.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 28.51
+    },
+    "GeForce GTX 660 Ti": {
+        "GPU": "GeForce GTX 660 Ti",
+        "boostClock": 980.0,
+        "shaders": 1344.0,
+        "tmus": 112.0,
+        "rops": 24.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 144.2
+    },
+    "GeForce GTX 660": {
+        "GPU": "GeForce GTX 660",
+        "boostClock": 1032.0,
+        "shaders": 960.0,
+        "tmus": 80.0,
+        "rops": 24.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 144.2
+    },
+    "GeForce GTX 650 Ti": {
+        "GPU": "GeForce GTX 650 Ti",
+        "boostClock": 928.0,
+        "shaders": 768.0,
+        "tmus": 64.0,
+        "rops": 16.0,
+        "architecture": "Kepler",
+        "memorySize": 1.0,
+        "memoryBandwidth": 86.4
+    },
+    "GeForce GTX 770M": {
+        "GPU": "GeForce GTX 770M",
+        "boostClock": 797.0,
+        "shaders": 960.0,
+        "tmus": 80.0,
+        "rops": 24.0,
+        "architecture": "Kepler",
+        "memorySize": 3.0,
+        "memoryBandwidth": 96.19
+    },
+    "GeForce GTX 760M": {
+        "GPU": "GeForce GTX 760M",
+        "boostClock": 719.0,
+        "shaders": 768.0,
+        "tmus": 64.0,
+        "rops": 16.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 64.13
+    },
+    "GeForce GTX 780M": {
+        "GPU": "GeForce GTX 780M",
+        "boostClock": 797.0,
+        "shaders": 1536.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 4.0,
+        "memoryBandwidth": 160.0
+    },
+    "GeForce GTX TITAN": {
+        "GPU": "GeForce GTX TITAN",
+        "boostClock": 876.0,
+        "shaders": 2688.0,
+        "tmus": 224.0,
+        "rops": 48.0,
+        "architecture": "Kepler",
+        "memorySize": 6.0,
+        "memoryBandwidth": 288.4
+    },
+    "Radeon HD 7790": {
+        "GPU": "Radeon HD 7790",
+        "boostClock": 1000.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 16.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 96.0
+    },
+    "GeForce GTX 650 Ti Boost": {
+        "GPU": "GeForce GTX 650 Ti Boost",
+        "boostClock": 1032.0,
+        "shaders": 768.0,
+        "tmus": 64.0,
+        "rops": 24.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 144.2
+    },
+    "Radeon HD 7990": {
+        "GPU": "Radeon HD 7990",
+        "boostClock": 1000.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 3.0,
+        "memoryBandwidth": 288.0
+    },
+    "GeForce GTX 770": {
+        "GPU": "GeForce GTX 770",
+        "boostClock": 1085.0,
+        "shaders": 1536.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 224.4
+    },
+    "GeForce GTX 780": {
+        "GPU": "GeForce GTX 780",
+        "boostClock": 902.0,
+        "shaders": 2304.0,
+        "tmus": 192.0,
+        "rops": 48.0,
+        "architecture": "Kepler",
+        "memorySize": 3.0,
+        "memoryBandwidth": 288.4
+    },
+    "GeForce GTX 760": {
+        "GPU": "GeForce GTX 760",
+        "boostClock": 1032.0,
+        "shaders": 1152.0,
+        "tmus": 96.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 192.3
+    },
+    "Radeon RX 6800": {
+        "GPU": "Radeon RX 6800",
+        "boostClock": 2105.0,
+        "shaders": 3840.0,
+        "tmus": 240.0,
+        "rops": 96.0,
+        "architecture": "RDNA 2.0",
+        "memorySize": 16.0,
+        "memoryBandwidth": 512.0
+    },
+    "Radeon RX 470 Mobile": {
+        "GPU": "Radeon RX 470 Mobile",
+        "boostClock": 1074.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 224.0
+    },
+    "Radeon R7 250": {
+        "GPU": "Radeon R7 250",
+        "boostClock": 1050.0,
+        "shaders": 384.0,
+        "tmus": 24.0,
+        "rops": 8.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 1.0,
+        "memoryBandwidth": 73.6
+    },
+    "GeForce GTX 1060 Mobile": {
+        "GPU": "GeForce GTX 1060 Mobile",
+        "boostClock": 1671.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 48.0,
+        "architecture": "Pascal",
+        "memorySize": 6.0,
+        "memoryBandwidth": 192.2
+    },
+    "Radeon RX 480 Mobile": {
+        "GPU": "Radeon RX 480 Mobile",
+        "boostClock": 1077.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "Radeon R9 270 1024SP": {
+        "GPU": "Radeon R9 270 1024SP",
+        "boostClock": 925.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 153.6
+    },
+    "GeForce GTX 980M": {
+        "GPU": "GeForce GTX 980M",
+        "boostClock": 1127.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 64.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 160.4
+    },
+    "GeForce GTX 970M": {
+        "GPU": "GeForce GTX 970M",
+        "boostClock": 1038.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 48.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 6.0,
+        "memoryBandwidth": 120.3
+    },
+    "Radeon R9 M290X": {
+        "GPU": "Radeon R9 M290X",
+        "boostClock": 900.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 153.6
+    },
+    "Radeon RX 480": {
+        "GPU": "Radeon RX 480",
+        "boostClock": 1266.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "GeForce GTX 1080": {
+        "GPU": "GeForce GTX 1080",
+        "boostClock": 1733.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 320.3
+    },
+    "GeForce GTX 980MX": {
+        "GPU": "GeForce GTX 980MX",
+        "boostClock": 1178.0,
+        "shaders": 1664.0,
+        "tmus": 104.0,
+        "rops": 64.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 192.0
+    },
+    "GeForce GTX 670": {
+        "GPU": "GeForce GTX 670",
+        "boostClock": 980.0,
+        "shaders": 1344.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "Kepler",
+        "memorySize": 2.0,
+        "memoryBandwidth": 192.3
+    },
+    "GeForce GTX 1070 Mobile": {
+        "GPU": "GeForce GTX 1070 Mobile",
+        "boostClock": 1645.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.3
+    },
+    "Radeon RX 460": {
+        "GPU": "Radeon RX 460",
+        "boostClock": 1200.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.0
+    },
+    "GeForce GTX 1060 3 GB": {
+        "GPU": "GeForce GTX 1060 3 GB",
+        "boostClock": 1708.0,
+        "shaders": 1152.0,
+        "tmus": 72.0,
+        "rops": 48.0,
+        "architecture": "Pascal",
+        "memorySize": 3.0,
+        "memoryBandwidth": 192.2
+    },
+    "Radeon RX 470": {
+        "GPU": "Radeon RX 470",
+        "boostClock": 1206.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 211.2
+    },
+    "Radeon R7 265": {
+        "GPU": "Radeon R7 265",
+        "boostClock": 925.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 179.2
+    },
+    "GeForce GTX TITAN BLACK": {
+        "GPU": "GeForce GTX TITAN BLACK",
+        "boostClock": 980.0,
+        "shaders": 2880.0,
+        "tmus": 240.0,
+        "rops": 48.0,
+        "architecture": "Kepler",
+        "memorySize": 6.0,
+        "memoryBandwidth": 336.0
+    },
+    "GeForce GTX 1070": {
+        "GPU": "GeForce GTX 1070",
+        "boostClock": 1683.0,
+        "shaders": 1920.0,
+        "tmus": 120.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.3
+    },
+    "GeForce GTX 1060 6 GB": {
+        "GPU": "GeForce GTX 1060 6 GB",
+        "boostClock": 1709.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 48.0,
+        "architecture": "Pascal",
+        "memorySize": 6.0,
+        "memoryBandwidth": 192.2
+    },
+    "GeForce GTX 1050 Ti": {
+        "GPU": "GeForce GTX 1050 Ti",
+        "boostClock": 1392.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 32.0,
+        "architecture": "Pascal",
+        "memorySize": 4.0,
+        "memoryBandwidth": 112.1
+    },
+    "GeForce GTX 750 Ti": {
+        "GPU": "GeForce GTX 750 Ti",
+        "boostClock": 1085.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "Maxwell",
+        "memorySize": 2.0,
+        "memoryBandwidth": 86.4
+    },
+    "Radeon R9 280": {
+        "GPU": "Radeon R9 280",
+        "boostClock": 933.0,
+        "shaders": 1792.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 3.0,
+        "memoryBandwidth": 240.0
+    },
+    "Radeon R9 295X2": {
+        "GPU": "Radeon R9 295X2",
+        "boostClock": 1018.0,
+        "shaders": 2816.0,
+        "tmus": 176.0,
+        "rops": 64.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 320.0
+    },
+    "Radeon R9 285": {
+        "GPU": "Radeon R9 285",
+        "boostClock": 918.0,
+        "shaders": 1792.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 176.0
+    },
+    "GeForce GTX 970": {
+        "GPU": "GeForce GTX 970",
+        "boostClock": 1178.0,
+        "shaders": 1664.0,
+        "tmus": 104.0,
+        "rops": 56.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 224.4
+    },
+    "GeForce GTX 980": {
+        "GPU": "GeForce GTX 980",
+        "boostClock": 1216.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 64.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 224.4
+    },
+    "GeForce GTX 960M": {
+        "GPU": "GeForce GTX 960M",
+        "boostClock": 1176.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "Maxwell",
+        "memorySize": 4.0,
+        "memoryBandwidth": 80.19
+    },
+    "GeForce GTX 960": {
+        "GPU": "GeForce GTX 960",
+        "boostClock": 1178.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.2
+    },
+    "Radeon R9 FURY X": {
+        "GPU": "Radeon R9 FURY X",
+        "boostClock": 1050.0,
+        "shaders": 4096.0,
+        "tmus": 256.0,
+        "rops": 64.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 512.0
+    },
+    "Radeon R9 M270X": {
+        "GPU": "Radeon R9 M270X",
+        "boostClock": 1000.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 16.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 88.0
+    },
+    "Radeon R9 FURY": {
+        "GPU": "Radeon R9 FURY",
+        "boostClock": 1000.0,
+        "shaders": 3584.0,
+        "tmus": 224.0,
+        "rops": 64.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 512.0
+    },
+    "GeForce GTX TITAN X": {
+        "GPU": "GeForce GTX TITAN X",
+        "boostClock": 1089.0,
+        "shaders": 3072.0,
+        "tmus": 192.0,
+        "rops": 96.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 12.0,
+        "memoryBandwidth": 336.6
+    },
+    "Radeon R9 M380": {
+        "GPU": "Radeon R9 M380",
+        "boostClock": 1000.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 16.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 96.0
+    },
+    "GeForce GTX 980 Mobile": {
+        "GPU": "GeForce GTX 980 Mobile",
+        "boostClock": 1140.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 64.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 224.4
+    },
+    "Radeon R9 M280X": {
+        "GPU": "Radeon R9 M280X",
+        "boostClock": 1000.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 16.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 88.0
+    },
+    "GeForce GTX 980 Ti": {
+        "GPU": "GeForce GTX 980 Ti",
+        "boostClock": 1076.0,
+        "shaders": 2816.0,
+        "tmus": 176.0,
+        "rops": 96.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 6.0,
+        "memoryBandwidth": 336.6
+    },
+    "Radeon R9 Nano": {
+        "GPU": "Radeon R9 Nano",
+        "boostClock": 1000.0,
+        "shaders": 4096.0,
+        "tmus": 256.0,
+        "rops": 64.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 512.0
+    },
+    "GeForce GTX 950": {
+        "GPU": "GeForce GTX 950",
+        "boostClock": 1188.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 32.0,
+        "architecture": "Maxwell 2.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 105.8
+    },
+    "Radeon R9 390X": {
+        "GPU": "Radeon R9 390X",
+        "boostClock": 1050.0,
+        "shaders": 2816.0,
+        "tmus": 176.0,
+        "rops": 64.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 384.0
+    },
+    "Radeon R9 390": {
+        "GPU": "Radeon R9 390",
+        "boostClock": 1000.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "GCN 2.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 384.0
+    },
+    "Radeon R9 380": {
+        "GPU": "Radeon R9 380",
+        "boostClock": 970.0,
+        "shaders": 1792.0,
+        "tmus": 112.0,
+        "rops": 32.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 176.0
+    },
+    "GeForce GTX 1080 Max-Q": {
+        "GPU": "GeForce GTX 1080 Max-Q",
+        "boostClock": 1366.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 320.3
+    },
+    "GeForce GTX 1080 Mobile": {
+        "GPU": "GeForce GTX 1080 Mobile",
+        "boostClock": 1734.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 320.3
+    },
+    "Radeon RX 550 Mobile": {
+        "GPU": "Radeon RX 550 Mobile",
+        "boostClock": 1287.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 96.0
+    },
+    "Radeon RX 560 Mobile": {
+        "GPU": "Radeon RX 560 Mobile",
+        "boostClock": 1053.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 96.0
+    },
+    "Radeon 530 Mobile GDDR5": {
+        "GPU": "Radeon 530 Mobile GDDR5",
+        "boostClock": 891.0,
+        "shaders": 384.0,
+        "tmus": 24.0,
+        "rops": 8.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 28.8
+    },
+    "Radeon R7 370": {
+        "GPU": "Radeon R7 370",
+        "boostClock": 975.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "GCN 1.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 179.2
+    },
+    "Radeon RX 580 Mobile": {
+        "GPU": "Radeon RX 580 Mobile",
+        "boostClock": 1077.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "Radeon R9 380X": {
+        "GPU": "Radeon R9 380X",
+        "boostClock": 970.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 3.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 182.4
+    },
+    "Radeon RX 570 Mobile": {
+        "GPU": "Radeon RX 570 Mobile",
+        "boostClock": 1206.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 211.2
+    },
+    "GeForce GTX 1060 Max-Q": {
+        "GPU": "GeForce GTX 1060 Max-Q",
+        "boostClock": 1480.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 48.0,
+        "architecture": "Pascal",
+        "memorySize": 6.0,
+        "memoryBandwidth": 192.2
+    },
+    "Radeon Pro WX 7100 Mobile": {
+        "GPU": "Radeon Pro WX 7100 Mobile",
+        "boostClock": 1243.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 160.0
+    },
+    "GeForce GTX 1050 Mobile": {
+        "GPU": "GeForce GTX 1050 Mobile",
+        "boostClock": 1493.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "Pascal",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.1
+    },
+    "GeForce GTX 1070 Max-Q": {
+        "GPU": "GeForce GTX 1070 Max-Q",
+        "boostClock": 1379.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.3
+    },
+    "Radeon RX 570": {
+        "GPU": "Radeon RX 570",
+        "boostClock": 1244.0,
+        "shaders": 2048.0,
+        "tmus": 128.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 224.0
+    },
+    "Radeon RX 560": {
+        "GPU": "Radeon RX 560",
+        "boostClock": 1275.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 112.0
+    },
+    "GeForce GTX 1080 Ti": {
+        "GPU": "GeForce GTX 1080 Ti",
+        "boostClock": 1582.0,
+        "shaders": 3584.0,
+        "tmus": 224.0,
+        "rops": 88.0,
+        "architecture": "Pascal",
+        "memorySize": 11.0,
+        "memoryBandwidth": 484.4
+    },
+    "GeForce GT 1030": {
+        "GPU": "GeForce GT 1030",
+        "boostClock": 1468.0,
+        "shaders": 384.0,
+        "tmus": 24.0,
+        "rops": 16.0,
+        "architecture": "Pascal",
+        "memorySize": 2.0,
+        "memoryBandwidth": 48.06
+    },
+    "Radeon RX Vega 64": {
+        "GPU": "Radeon RX Vega 64",
+        "boostClock": 1546.0,
+        "shaders": 4096.0,
+        "tmus": 256.0,
+        "rops": 64.0,
+        "architecture": "GCN 5.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 483.8
+    },
+    "Radeon RX 550": {
+        "GPU": "Radeon RX 550",
+        "boostClock": 1183.0,
+        "shaders": 512.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.0
+    },
+    "TITAN Xp": {
+        "GPU": "TITAN Xp",
+        "boostClock": 1582.0,
+        "shaders": 3840.0,
+        "tmus": 240.0,
+        "rops": 96.0,
+        "architecture": "Pascal",
+        "memorySize": 12.0,
+        "memoryBandwidth": 547.6
+    },
+    "Radeon RX Vega 56": {
+        "GPU": "Radeon RX Vega 56",
+        "boostClock": 1471.0,
+        "shaders": 3584.0,
+        "tmus": 224.0,
+        "rops": 64.0,
+        "architecture": "GCN 5.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 409.6
+    },
+    "TITAN V": {
+        "GPU": "TITAN V",
+        "boostClock": 1455.0,
+        "shaders": 5120.0,
+        "tmus": 320.0,
+        "rops": 96.0,
+        "architecture": "Volta",
+        "memorySize": 12.0,
+        "memoryBandwidth": 651.3
+    },
+    "GeForce GTX 1070 Ti": {
+        "GPU": "GeForce GTX 1070 Ti",
+        "boostClock": 1683.0,
+        "shaders": 2432.0,
+        "tmus": 152.0,
+        "rops": 64.0,
+        "architecture": "Pascal",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.3
+    },
+    "GeForce GTX 1050 Ti Mobile": {
+        "GPU": "GeForce GTX 1050 Ti Mobile",
+        "boostClock": 1620.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 32.0,
+        "architecture": "Pascal",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.1
+    },
+    "Radeon RX 580": {
+        "GPU": "Radeon RX 580",
+        "boostClock": 1340.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "Radeon RX 540 Mobile": {
+        "GPU": "Radeon RX 540 Mobile",
+        "boostClock": 1046.0,
+        "shaders": 512.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 80.0
+    },
+    "Radeon RX 550X Mobile": {
+        "GPU": "Radeon RX 550X Mobile",
+        "boostClock": 1176.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 48.0
+    },
+    "Radeon RX 580X Mobile": {
+        "GPU": "Radeon RX 580X Mobile",
+        "boostClock": 1266.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "GeForce RTX 2080": {
+        "GPU": "GeForce RTX 2080",
+        "boostClock": 1710.0,
+        "shaders": 2944.0,
+        "tmus": 184.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "Radeon 540 Mobile": {
+        "GPU": "Radeon 540 Mobile",
+        "boostClock": 1046.0,
+        "shaders": 512.0,
+        "tmus": 32.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 2.0,
+        "memoryBandwidth": 41.6
+    },
+    "GeForce GTX 1050 Ti Max-Q": {
+        "GPU": "GeForce GTX 1050 Ti Max-Q",
+        "boostClock": 1291.0,
+        "shaders": 768.0,
+        "tmus": 48.0,
+        "rops": 32.0,
+        "architecture": "Pascal",
+        "memorySize": 4.0,
+        "memoryBandwidth": 112.1
+    },
+    "TITAN RTX": {
+        "GPU": "TITAN RTX",
+        "boostClock": 1770.0,
+        "shaders": 4608.0,
+        "tmus": 288.0,
+        "rops": 96.0,
+        "architecture": "Turing",
+        "memorySize": 24.0,
+        "memoryBandwidth": 672.0
+    },
+    "GeForce GTX 1050 Max-Q": {
+        "GPU": "GeForce GTX 1050 Max-Q",
+        "boostClock": 1139.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 16.0,
+        "architecture": "Pascal",
+        "memorySize": 4.0,
+        "memoryBandwidth": 112.1
+    },
+    "Radeon RX Vega 56 Mobile": {
+        "GPU": "Radeon RX Vega 56 Mobile",
+        "boostClock": 1301.0,
+        "shaders": 3584.0,
+        "tmus": 224.0,
+        "rops": 64.0,
+        "architecture": "GCN 5.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 409.6
+    },
+    "GeForce RTX 2070": {
+        "GPU": "GeForce RTX 2070",
+        "boostClock": 1620.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "GeForce RTX 2080 Ti": {
+        "GPU": "GeForce RTX 2080 Ti",
+        "boostClock": 1545.0,
+        "shaders": 4352.0,
+        "tmus": 272.0,
+        "rops": 88.0,
+        "architecture": "Turing",
+        "memorySize": 11.0,
+        "memoryBandwidth": 616.0
+    },
+    "GeForce GTX 1660 Ti Max-Q": {
+        "GPU": "GeForce GTX 1660 Ti Max-Q",
+        "boostClock": 1335.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 288.0
+    },
+    "Radeon RX 590": {
+        "GPU": "Radeon RX 590",
+        "boostClock": 1545.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 32.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 256.0
+    },
+    "GeForce GTX 1050": {
+        "GPU": "GeForce GTX 1050",
+        "boostClock": 1455.0,
+        "shaders": 640.0,
+        "tmus": 40.0,
+        "rops": 32.0,
+        "architecture": "Pascal",
+        "memorySize": 2.0,
+        "memoryBandwidth": 112.1
+    },
+    "GeForce GTX 1660 Ti Mobile": {
+        "GPU": "GeForce GTX 1660 Ti Mobile",
+        "boostClock": 1590.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 288.0
+    },
+    "GeForce RTX 2060 Mobile": {
+        "GPU": "GeForce RTX 2060 Mobile",
+        "boostClock": 1200.0,
+        "shaders": 1920.0,
+        "tmus": 120.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 336.0
+    },
+    "GeForce GTX 1650 Mobile": {
+        "GPU": "GeForce GTX 1650 Mobile",
+        "boostClock": 1515.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "Turing",
+        "memorySize": 4.0,
+        "memoryBandwidth": 192.0
+    },
+    "GeForce GTX 1650 SUPER": {
+        "GPU": "GeForce GTX 1650 SUPER",
+        "boostClock": 1725.0,
+        "shaders": 1280.0,
+        "tmus": 80.0,
+        "rops": 32.0,
+        "architecture": "Turing",
+        "memorySize": 4.0,
+        "memoryBandwidth": 192.0
+    },
+    "Radeon RX 5500 XT": {
+        "GPU": "Radeon RX 5500 XT",
+        "boostClock": 1845.0,
+        "shaders": 1408.0,
+        "tmus": 88.0,
+        "rops": 32.0,
+        "architecture": "RDNA 1.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 224.0
+    },
+    "GeForce GTX 1650 Max-Q": {
+        "GPU": "GeForce GTX 1650 Max-Q",
+        "boostClock": 1125.0,
+        "shaders": 1024.0,
+        "tmus": 64.0,
+        "rops": 32.0,
+        "architecture": "Turing",
+        "memorySize": 4.0,
+        "memoryBandwidth": 160.0
+    },
+    "Radeon RX 560X Mobile": {
+        "GPU": "Radeon RX 560X Mobile",
+        "boostClock": 1223.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 16.0,
+        "architecture": "GCN 4.0",
+        "memorySize": 4.0,
+        "memoryBandwidth": 112.0
+    },
+    "GeForce RTX 2080 Mobile": {
+        "GPU": "GeForce RTX 2080 Mobile",
+        "boostClock": 1590.0,
+        "shaders": 2944.0,
+        "tmus": 184.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "GeForce RTX 2070 Mobile": {
+        "GPU": "GeForce RTX 2070 Mobile",
+        "boostClock": 1440.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "Radeon VII": {
+        "GPU": "Radeon VII",
+        "boostClock": 1750.0,
+        "shaders": 3840.0,
+        "tmus": 240.0,
+        "rops": 64.0,
+        "architecture": "GCN 5.1",
+        "memorySize": 16.0,
+        "memoryBandwidth": 1020.0
+    },
+    "GeForce RTX 2070 Max-Q": {
+        "GPU": "GeForce RTX 2070 Max-Q",
+        "boostClock": 1185.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 384.0
+    },
+    "GeForce RTX 2060": {
+        "GPU": "GeForce RTX 2060",
+        "boostClock": 1680.0,
+        "shaders": 1920.0,
+        "tmus": 120.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 336.0
+    },
+    "GeForce RTX 2080 SUPER": {
+        "GPU": "GeForce RTX 2080 SUPER",
+        "boostClock": 1815.0,
+        "shaders": 3072.0,
+        "tmus": 192.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 495.9
+    },
+    "GeForce GTX 1660": {
+        "GPU": "GeForce GTX 1660",
+        "boostClock": 1785.0,
+        "shaders": 1408.0,
+        "tmus": 88.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 192.1
+    },
+    "GeForce GTX 1660 Ti": {
+        "GPU": "GeForce GTX 1660 Ti",
+        "boostClock": 1770.0,
+        "shaders": 1536.0,
+        "tmus": 96.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 288.0
+    },
+    "GeForce RTX 2080 Max-Q": {
+        "GPU": "GeForce RTX 2080 Max-Q",
+        "boostClock": 1095.0,
+        "shaders": 2944.0,
+        "tmus": 184.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 384.0
+    },
+    "GeForce GTX 1650": {
+        "GPU": "GeForce GTX 1650",
+        "boostClock": 1665.0,
+        "shaders": 896.0,
+        "tmus": 56.0,
+        "rops": 32.0,
+        "architecture": "Turing",
+        "memorySize": 4.0,
+        "memoryBandwidth": 128.1
+    },
+    "Radeon RX 5700 XT": {
+        "GPU": "Radeon RX 5700 XT",
+        "boostClock": 1905.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "RDNA 1.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "GeForce RTX 3080": {
+        "GPU": "GeForce RTX 3080",
+        "boostClock": 1710.0,
+        "shaders": 8704.0,
+        "tmus": 272.0,
+        "rops": 96.0,
+        "architecture": "Ampere",
+        "memorySize": 10.0,
+        "memoryBandwidth": 760.3
+    },
+    "GeForce RTX 3090": {
+        "GPU": "GeForce RTX 3090",
+        "boostClock": 1695.0,
+        "shaders": 10496.0,
+        "tmus": 328.0,
+        "rops": 112.0,
+        "architecture": "Ampere",
+        "memorySize": 24.0,
+        "memoryBandwidth": 936.2
+    },
+    "GeForce GTX 1660 SUPER": {
+        "GPU": "GeForce GTX 1660 SUPER",
+        "boostClock": 1785.0,
+        "shaders": 1408.0,
+        "tmus": 88.0,
+        "rops": 48.0,
+        "architecture": "Turing",
+        "memorySize": 6.0,
+        "memoryBandwidth": 336.0
+    },
+    "GeForce RTX 2070 SUPER": {
+        "GPU": "GeForce RTX 2070 SUPER",
+        "boostClock": 1770.0,
+        "shaders": 2560.0,
+        "tmus": 160.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "GeForce RTX 2060 SUPER": {
+        "GPU": "GeForce RTX 2060 SUPER",
+        "boostClock": 1650.0,
+        "shaders": 2176.0,
+        "tmus": 136.0,
+        "rops": 64.0,
+        "architecture": "Turing",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "Radeon RX 5700": {
+        "GPU": "Radeon RX 5700",
+        "boostClock": 1725.0,
+        "shaders": 2304.0,
+        "tmus": 144.0,
+        "rops": 64.0,
+        "architecture": "RDNA 1.0",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    },
+    "Radeon RX 6800 XT": {
+        "GPU": "Radeon RX 6800 XT",
+        "boostClock": 2250.0,
+        "shaders": 4608.0,
+        "tmus": 288.0,
+        "rops": 128.0,
+        "architecture": "RDNA 2.0",
+        "memorySize": 16.0,
+        "memoryBandwidth": 512.0
+    },
+    "GeForce RTX 3070": {
+        "GPU": "GeForce RTX 3070",
+        "boostClock": 1725.0,
+        "shaders": 5888.0,
+        "tmus": 184.0,
+        "rops": 96.0,
+        "architecture": "Ampere",
+        "memorySize": 8.0,
+        "memoryBandwidth": 448.0
+    }
+}
