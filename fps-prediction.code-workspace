@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "name": "API",
+            "path": "api"
+        },
+        {
+            "name": "Web App",
+            "path": "web-app"
+        }
+    ],
+    "settings": {
+        "python.envs.terminal.autoActivationType": "command"
+    }
+}
