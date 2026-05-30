@@ -54,4 +54,7 @@ def predict_fps(data: InputData):
         pred = model.predict(input_processed)[0]
         predictions.append(pred)
 
-    return {"prediction": float(sum(predictions) / len(predictions))}
+    prediction = float(sum(predictions) / len(predictions))
+    prediction = np.maximum(prediction, 0) ** (10)
+
+    return {"prediction": prediction}
