@@ -46,7 +46,7 @@ else:
 
 # get game metadata from user input
 if not st.checkbox("Use Custom Game"):
-    selected_game = st.selectbox("Select Game", game_options)
+    selected_game = st.selectbox("Select Game", game_options, index=8)
     game = game_metadata[selected_game]
     request_data['Release_Date'] = game['Release_Date']
     for genre in genres:
@@ -86,18 +86,44 @@ else:
         width = st.number_input("Resolution Height", min_value=0, value=2560)
     request_data['Resolution'] = height * width
 
-request_data['Preset'] = st.selectbox("Graphics Preset", ["Low", "Medium", "High", "Ultra"], index=2).lower()
+# get graphics preset from user input
+request_data['Preset'] = st.selectbox("Graphics Preset", ["Low", "Medium", "High", "Ultra"], index=1).lower()
 
-Prediction_API_URL = "https://fps-prediction.onrender.com/predict"
+# get prediction api url from secrets
+Prediction_API_URL = st.secrets["PREDICTION_API_URL"]
 
+# predict average fps when button is clicked
 if st.button("Predict Average FPS"):
     # make api request to prediction endpoint with request_data as json body
-    with st.spinner("Predicting..."):
+    with st.spinner("Connecting to Prediction API..."):
         try:
             response = requests.post(Prediction_API_URL, json=request_data, timeout=10)
-            if response.status_code == 200:
-                st.success(f"Predicted Average FPS: {response.json()['prediction']:.2f}")
+            
+            # check if response is successful
+            response.raise_for_status()
+
+            # get predicted fps from response json
+            result = response.json()
+            predicted_fps = result.get("prediction", None)
+
+            # display predicted fps to user
+            if predicted_fps is not None:
+                st.success(f"Predicted Average FPS: {predicted_fps:.2f}")
             else:
-                st.error(f"API request failed with status code {response.status_code}: {response.text}")
+                st.error("Prediction API did not return a valid response.")
+        
+        # handle timeout exception
+        except requests.exceptions.Timeout:
+            st.error("The request timed out. The server might be running slow. Please try again later.")
+        
+        # handle http errors
+        except requests.exceptions.HTTPError:
+            st.error(f"API request failed with status code {response.status_code}: {response.text}")
+
+        # handle json parsing errors
+        except (ValueError, KeyError):
+            st.error("Failed to parse response. The server didn't return valid prediction JSON.")
+
+        # handle other request exceptions
         except requests.exceptions.RequestException as e:
             st.error(f"API request failed: {e}")
