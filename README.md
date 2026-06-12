@@ -105,23 +105,23 @@ Output: Average FPS
 
 ```
 fps-prediction
-├── api
+├── api/
 │   ├── Dockerfile
-│   ├── app
+│   ├── app/
 │   │   └── main.py
-│   ├── model
+│   ├── model/
 │   │   ├── models.joblib
 │   │   └── preprocessor.joblib
 │   └── requirements.txt
-├── fps-prediction.code-workspace
-├── web-app
+├── web-app/
 │   ├── Dockerfile
-│   ├── app
+│   ├── app/
 │   │   ├── constants.py
 │   │   ├── game_metadata.json
 │   │   ├── gpu_specs.json
 │   │   └── main.py
 │   └── requirements.txt
+├── fps-prediction.code-workspace
 ├── README.md
 └── RESULTS.md
 ```
