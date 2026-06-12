@@ -1,5 +1,7 @@
 # Hardware–Game Generalization Model for FPS Prediction
 
+## Table of Contents
+
 1. [Project Overview](#project-overview)
 2. [Models Tested](#models-tested)
 3. [Evaluation Strategy](#evaluation-strategy)
