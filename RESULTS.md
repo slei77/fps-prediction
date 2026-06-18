@@ -137,6 +137,8 @@ After applying the power transform (λ = 0.1), the residual distribution becomes
 
 ## Notebooks:
 
-[Dev Notebook V2](https://colab.research.google.com/drive/1UguXRdVlS9xsPZTEZlbIyB1gKN4mUZGm?usp=sharing)
+Improved version: [Colab Notebook V2](https://colab.research.google.com/drive/1UguXRdVlS9xsPZTEZlbIyB1gKN4mUZGm?usp=sharing)
 
-[Dev Notebook V1](https://colab.research.google.com/drive/1qLLXqKYXNz56A7DBeDdYQFBECxjI4ktM?usp=sharing)
+First version: [Colab Notebook V1](https://colab.research.google.com/drive/1qLLXqKYXNz56A7DBeDdYQFBECxjI4ktM?usp=sharing)
+
+PySpark preprocessing pipeline: [Databricks Notebook](https://dbc-c6d77279-68ad.cloud.databricks.com/editor/notebooks/414433011491743?o=7474654996701133)
