@@ -39,7 +39,7 @@ Evaluated three model families:
 
 ## Evaluation Strategy
 
-Group-based cross-validation was used to prevent data leakage. The train/test splits were executed at the game level with genre stratification, ensuring the model never encountered test-set games during training and that all genres were represented in the test set.
+We used group-based cross-validation at the game level to prevent data leakage. By applying iterative stratification, we ensured a balanced genre representation in both sets and guaranteed the model never encountered test-set games during training. The same stratification approach was also used to handle the cross-validation splits on the training set. 
 
 ## Key Results
 
@@ -47,7 +47,7 @@ Final model: 5-fold cross-validated XGBoost ensemble with simple average aggrega
 
 Evaluation on the held-out test set achieved 16% MAPE, 0.94 R², and 26.6 RMSE.
 
-Ensembling helps mitigate biases caused by fold-specific game distributions, resulting in more stable predictions for underrepresented genres.
+Because our dataset is sparse (95 titles) and the test set was partitioned first, the test set likely holds a more diverse and comprehensive sample of games. This discrepancy explains the substantial performance boost observed on the test set relative to the cross-validation average. 
 
 ## Key Findings
 
@@ -61,10 +61,17 @@ Ensembling helps mitigate biases caused by fold-specific game distributions, res
 
 ### 5-fold cross-validation result:
 
+Mean:
 |Model|MAPE|R<sup>2</sup>|RMSE|
 |---|---|---|---|
 |XGBoost|21.68%|0.88|40.55|
 |Linear Regression|28.49%|0.76|56.43|
+
+Median:
+|Model|MAPE|R<sup>2</sup>|RMSE|
+|---|---|---|---|
+|XGBoost|20.94%|0.89|35.2648|
+|Linear Regression|25%|0.81|54.89|
 
 ### Fold 1 result:
 
@@ -131,8 +138,8 @@ After applying the power transform (λ = 0.1), the residual distribution becomes
 
 ## Limitations
 
-- Dataset is relatively small (95 games, 170 GPUs)
-- Some game genres are underrepresented
+- The small dataset size (95 games, 170 GPUs) increases the variance of the evaluated metrics.
+- Some game genres are underrepresented (4 games for certain genres)
 - Performance varies depending on game distribution in train/test splits
 
 ## Notebooks:
